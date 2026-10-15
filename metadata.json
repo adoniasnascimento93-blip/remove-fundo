@@ -1,0 +1,6 @@
+{
+  "name": "CutoutPro AI - Removedor de Fundo IA",
+  "description": "Removedor de fundo ultrapreciso com Inteligência Artificial especializado em pessoas, cabelos e detalhes finos com transparência perfeita em alta qualidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
